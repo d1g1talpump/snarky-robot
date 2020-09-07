@@ -1,0 +1,1 @@
+A simple .html and .js to play a number guessing game. Play in the browser via the developer tools console.
